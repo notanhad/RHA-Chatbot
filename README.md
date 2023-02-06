@@ -9,3 +9,4 @@ Connect your Anvil app with chatbotAnvi by creating an Anvil Uplink. You will ge
 anvil.server.connect() function at the top of chatbotAnvi. 
 
 To maintain the UI I built, copy paste the Form, HTML, and CSS files in the anvi folder to their corresponding locations in your Anvil app.
+This is how the current UI looks: https://rha-bulk-whatsapp-messenger.anvil.app/
